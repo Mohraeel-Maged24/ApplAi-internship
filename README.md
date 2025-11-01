@@ -34,11 +34,18 @@ This repo documents the Customer Segmentation data science project I completed d
 
 ---
 
+## 📊 Sample Output / Visualization  
+
+Below is a sample visualization from the clustering results:
+<img width="1355" height="602" alt="customer" src="https://github.com/user-attachments/assets/8bef92ed-6179-43e6-a21f-a6945d17077c" />
+
+---
+
 ##  How to Run the Application  
 
 1. Open your terminal (CMD, PowerShell, or Git Bash).  
 2. Navigate to the project directory.  
 3. Run the following command:  
 
-```bash
+
 streamlit run app.py
